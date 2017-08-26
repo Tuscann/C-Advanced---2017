@@ -1,0 +1,12 @@
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\Stacks and Queues - Lab\06.00 MathPotato\bin\Debug\06.00 MathPotato.exe.config
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\Stacks and Queues - Lab\06.00 MathPotato\bin\Debug\06.00 MathPotato.exe
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\Stacks and Queues - Lab\06.00 MathPotato\bin\Debug\06.00 MathPotato.pdb
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\Stacks and Queues - Lab\06.00 MathPotato\obj\Debug\06.00 MathPotato.csprojResolveAssemblyReference.cache
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\Stacks and Queues - Lab\06.00 MathPotato\obj\Debug\06.00 MathPotato.exe
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\Stacks and Queues - Lab\06.00 MathPotato\obj\Debug\06.00 MathPotato.pdb
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\06.00 MathPotato\bin\Debug\06.00 MathPotato.exe.config
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\06.00 MathPotato\bin\Debug\06.00 MathPotato.exe
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\06.00 MathPotato\bin\Debug\06.00 MathPotato.pdb
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\06.00 MathPotato\obj\Debug\06.00 MathPotato.csprojResolveAssemblyReference.cache
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\06.00 MathPotato\obj\Debug\06.00 MathPotato.exe
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\06.00 MathPotato\obj\Debug\06.00 MathPotato.pdb

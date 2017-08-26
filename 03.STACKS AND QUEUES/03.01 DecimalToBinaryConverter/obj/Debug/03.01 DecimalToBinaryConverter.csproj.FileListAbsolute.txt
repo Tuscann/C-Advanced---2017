@@ -1,0 +1,6 @@
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\03.01 DecimalToBinaryConverter\bin\Debug\03.01 DecimalToBinaryConverter.exe.config
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\03.01 DecimalToBinaryConverter\bin\Debug\03.01 DecimalToBinaryConverter.exe
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\03.01 DecimalToBinaryConverter\bin\Debug\03.01 DecimalToBinaryConverter.pdb
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\03.01 DecimalToBinaryConverter\obj\Debug\03.01 DecimalToBinaryConverter.csprojResolveAssemblyReference.cache
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\03.01 DecimalToBinaryConverter\obj\Debug\03.01 DecimalToBinaryConverter.exe
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\03.01 DecimalToBinaryConverter\obj\Debug\03.01 DecimalToBinaryConverter.pdb

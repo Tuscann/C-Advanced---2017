@@ -1,0 +1,5 @@
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\05.00 HotPotato\bin\Debug\05.00 HotPotato.exe.config
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\05.00 HotPotato\bin\Debug\05.00 HotPotato.exe
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\05.00 HotPotato\bin\Debug\05.00 HotPotato.pdb
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\05.00 HotPotato\obj\Debug\05.00 HotPotato.exe
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\05.00 HotPotato\obj\Debug\05.00 HotPotato.pdb

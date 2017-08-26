@@ -1,0 +1,5 @@
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\Stacks and Queues - Lab\01.00 ReverseStrings\bin\Debug\01.00 ReverseStrings.exe.config
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\Stacks and Queues - Lab\01.00 ReverseStrings\bin\Debug\01.00 ReverseStrings.exe
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\Stacks and Queues - Lab\01.00 ReverseStrings\bin\Debug\01.00 ReverseStrings.pdb
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\Stacks and Queues - Lab\01.00 ReverseStrings\obj\Debug\01.00 ReverseStrings.exe
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\Stacks and Queues - Lab\01.00 ReverseStrings\obj\Debug\01.00 ReverseStrings.pdb

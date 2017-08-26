@@ -1,0 +1,6 @@
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\Stacks and Queues - Lab\2.00 SimpleCalculator\bin\Debug\2.00 SimpleCalculator.exe.config
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\Stacks and Queues - Lab\2.00 SimpleCalculator\bin\Debug\2.00 SimpleCalculator.exe
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\Stacks and Queues - Lab\2.00 SimpleCalculator\bin\Debug\2.00 SimpleCalculator.pdb
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\Stacks and Queues - Lab\2.00 SimpleCalculator\obj\Debug\02.00 SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\Stacks and Queues - Lab\2.00 SimpleCalculator\obj\Debug\2.00 SimpleCalculator.exe
+C:\Users\me\Desktop\C# Advanced - май 2017\03.STACKS AND QUEUES\Stacks and Queues - Lab\2.00 SimpleCalculator\obj\Debug\2.00 SimpleCalculator.pdb
