@@ -1,0 +1,6 @@
+C:\Users\me\Documents\CSharp-Advanced-May---2017\04.EXERCISE STACKS AND QUEUES\10.00 Simple Text Editor\bin\Debug\10.00 Simple Text Editor.exe.config
+C:\Users\me\Documents\CSharp-Advanced-May---2017\04.EXERCISE STACKS AND QUEUES\10.00 Simple Text Editor\bin\Debug\10.00 Simple Text Editor.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\04.EXERCISE STACKS AND QUEUES\10.00 Simple Text Editor\bin\Debug\10.00 Simple Text Editor.pdb
+C:\Users\me\Documents\CSharp-Advanced-May---2017\04.EXERCISE STACKS AND QUEUES\10.00 Simple Text Editor\obj\Debug\10.00 Simple Text Editor.csprojResolveAssemblyReference.cache
+C:\Users\me\Documents\CSharp-Advanced-May---2017\04.EXERCISE STACKS AND QUEUES\10.00 Simple Text Editor\obj\Debug\10.00 Simple Text Editor.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\04.EXERCISE STACKS AND QUEUES\10.00 Simple Text Editor\obj\Debug\10.00 Simple Text Editor.pdb

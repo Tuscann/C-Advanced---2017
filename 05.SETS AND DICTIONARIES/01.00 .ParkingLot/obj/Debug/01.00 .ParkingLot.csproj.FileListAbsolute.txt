@@ -1,0 +1,6 @@
+C:\Users\me\Documents\CSharp-Advanced-May---2017\05.SETS AND DICTIONARIES\Sets and Dictionaries - Lab\01.00 .ParkingLot\bin\Debug\_01._00.ParkingLot.exe.config
+C:\Users\me\Documents\CSharp-Advanced-May---2017\05.SETS AND DICTIONARIES\Sets and Dictionaries - Lab\01.00 .ParkingLot\bin\Debug\_01._00.ParkingLot.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\05.SETS AND DICTIONARIES\Sets and Dictionaries - Lab\01.00 .ParkingLot\bin\Debug\_01._00.ParkingLot.pdb
+C:\Users\me\Documents\CSharp-Advanced-May---2017\05.SETS AND DICTIONARIES\Sets and Dictionaries - Lab\01.00 .ParkingLot\obj\Debug\01.00 .ParkingLot.csprojResolveAssemblyReference.cache
+C:\Users\me\Documents\CSharp-Advanced-May---2017\05.SETS AND DICTIONARIES\Sets and Dictionaries - Lab\01.00 .ParkingLot\obj\Debug\_01._00.ParkingLot.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\05.SETS AND DICTIONARIES\Sets and Dictionaries - Lab\01.00 .ParkingLot\obj\Debug\_01._00.ParkingLot.pdb

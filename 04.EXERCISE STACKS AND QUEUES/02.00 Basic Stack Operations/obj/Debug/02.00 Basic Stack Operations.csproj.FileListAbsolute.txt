@@ -1,0 +1,5 @@
+C:\Users\me\Documents\CSharp-Advanced-May---2017\04.EXERCISE STACKS AND QUEUES\02.00 Basic Stack Operations\bin\Debug\02.00 Basic Stack Operations.exe.config
+C:\Users\me\Documents\CSharp-Advanced-May---2017\04.EXERCISE STACKS AND QUEUES\02.00 Basic Stack Operations\bin\Debug\02.00 Basic Stack Operations.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\04.EXERCISE STACKS AND QUEUES\02.00 Basic Stack Operations\bin\Debug\02.00 Basic Stack Operations.pdb
+C:\Users\me\Documents\CSharp-Advanced-May---2017\04.EXERCISE STACKS AND QUEUES\02.00 Basic Stack Operations\obj\Debug\02.00 Basic Stack Operations.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\04.EXERCISE STACKS AND QUEUES\02.00 Basic Stack Operations\obj\Debug\02.00 Basic Stack Operations.pdb

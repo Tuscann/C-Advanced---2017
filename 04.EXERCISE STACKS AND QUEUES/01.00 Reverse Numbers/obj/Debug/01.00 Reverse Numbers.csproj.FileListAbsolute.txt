@@ -1,0 +1,6 @@
+C:\Users\me\Documents\CSharp-Advanced-May---2017\04.EXERCISE STACKS AND QUEUES\01.00 Reverse Numbers\bin\Debug\01.00 Reverse Numbers.exe.config
+C:\Users\me\Documents\CSharp-Advanced-May---2017\04.EXERCISE STACKS AND QUEUES\01.00 Reverse Numbers\bin\Debug\01.00 Reverse Numbers.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\04.EXERCISE STACKS AND QUEUES\01.00 Reverse Numbers\bin\Debug\01.00 Reverse Numbers.pdb
+C:\Users\me\Documents\CSharp-Advanced-May---2017\04.EXERCISE STACKS AND QUEUES\01.00 Reverse Numbers\obj\Debug\01.00 Reverse Numbers.csprojResolveAssemblyReference.cache
+C:\Users\me\Documents\CSharp-Advanced-May---2017\04.EXERCISE STACKS AND QUEUES\01.00 Reverse Numbers\obj\Debug\01.00 Reverse Numbers.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\04.EXERCISE STACKS AND QUEUES\01.00 Reverse Numbers\obj\Debug\01.00 Reverse Numbers.pdb

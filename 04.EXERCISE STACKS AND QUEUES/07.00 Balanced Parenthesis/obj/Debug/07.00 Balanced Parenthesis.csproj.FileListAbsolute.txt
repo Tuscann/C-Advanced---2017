@@ -1,0 +1,6 @@
+C:\Users\me\Documents\CSharp-Advanced-May---2017\04.EXERCISE STACKS AND QUEUES\07.00 Balanced Parenthesis\bin\Debug\07.00 Balanced Parenthesis.exe.config
+C:\Users\me\Documents\CSharp-Advanced-May---2017\04.EXERCISE STACKS AND QUEUES\07.00 Balanced Parenthesis\bin\Debug\07.00 Balanced Parenthesis.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\04.EXERCISE STACKS AND QUEUES\07.00 Balanced Parenthesis\bin\Debug\07.00 Balanced Parenthesis.pdb
+C:\Users\me\Documents\CSharp-Advanced-May---2017\04.EXERCISE STACKS AND QUEUES\07.00 Balanced Parenthesis\obj\Debug\07.00 Balanced Parenthesis.csprojResolveAssemblyReference.cache
+C:\Users\me\Documents\CSharp-Advanced-May---2017\04.EXERCISE STACKS AND QUEUES\07.00 Balanced Parenthesis\obj\Debug\07.00 Balanced Parenthesis.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\04.EXERCISE STACKS AND QUEUES\07.00 Balanced Parenthesis\obj\Debug\07.00 Balanced Parenthesis.pdb

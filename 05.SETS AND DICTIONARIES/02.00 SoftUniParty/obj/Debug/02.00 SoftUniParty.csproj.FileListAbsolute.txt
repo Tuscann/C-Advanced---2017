@@ -1,0 +1,6 @@
+C:\Users\me\Documents\CSharp-Advanced-May---2017\05.SETS AND DICTIONARIES\Sets and Dictionaries - Lab\02.00 SoftUniParty\bin\Debug\02.00 SoftUniParty.exe.config
+C:\Users\me\Documents\CSharp-Advanced-May---2017\05.SETS AND DICTIONARIES\Sets and Dictionaries - Lab\02.00 SoftUniParty\bin\Debug\02.00 SoftUniParty.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\05.SETS AND DICTIONARIES\Sets and Dictionaries - Lab\02.00 SoftUniParty\bin\Debug\02.00 SoftUniParty.pdb
+C:\Users\me\Documents\CSharp-Advanced-May---2017\05.SETS AND DICTIONARIES\Sets and Dictionaries - Lab\02.00 SoftUniParty\obj\Debug\02.00 SoftUniParty.csprojResolveAssemblyReference.cache
+C:\Users\me\Documents\CSharp-Advanced-May---2017\05.SETS AND DICTIONARIES\Sets and Dictionaries - Lab\02.00 SoftUniParty\obj\Debug\02.00 SoftUniParty.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\05.SETS AND DICTIONARIES\Sets and Dictionaries - Lab\02.00 SoftUniParty\obj\Debug\02.00 SoftUniParty.pdb
