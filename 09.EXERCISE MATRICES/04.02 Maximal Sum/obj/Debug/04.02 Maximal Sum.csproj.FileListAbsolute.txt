@@ -1,0 +1,5 @@
+C:\Users\me\Documents\CSharp-Advanced-May---2017\09.EXERCISE MATRICES\04.02 Maximal Sum\bin\Debug\04.02 Maximal Sum.exe.config
+C:\Users\me\Documents\CSharp-Advanced-May---2017\09.EXERCISE MATRICES\04.02 Maximal Sum\bin\Debug\04.02 Maximal Sum.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\09.EXERCISE MATRICES\04.02 Maximal Sum\bin\Debug\04.02 Maximal Sum.pdb
+C:\Users\me\Documents\CSharp-Advanced-May---2017\09.EXERCISE MATRICES\04.02 Maximal Sum\obj\Debug\04.02 Maximal Sum.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\09.EXERCISE MATRICES\04.02 Maximal Sum\obj\Debug\04.02 Maximal Sum.pdb

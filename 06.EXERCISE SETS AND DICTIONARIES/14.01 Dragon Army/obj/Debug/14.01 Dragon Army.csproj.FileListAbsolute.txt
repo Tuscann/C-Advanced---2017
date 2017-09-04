@@ -1,0 +1,6 @@
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\14.01 Dragon Army\bin\Debug\14.01 Dragon Army.exe.config
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\14.01 Dragon Army\bin\Debug\14.01 Dragon Army.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\14.01 Dragon Army\bin\Debug\14.01 Dragon Army.pdb
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\14.01 Dragon Army\obj\Debug\14.01 Dragon Army.csprojResolveAssemblyReference.cache
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\14.01 Dragon Army\obj\Debug\14.01 Dragon Army.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\14.01 Dragon Army\obj\Debug\14.01 Dragon Army.pdb

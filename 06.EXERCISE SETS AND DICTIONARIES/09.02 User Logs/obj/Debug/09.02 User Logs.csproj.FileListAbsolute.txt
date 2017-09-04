@@ -1,0 +1,5 @@
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\09.02 User Logs\bin\Debug\09.02 User Logs.exe.config
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\09.02 User Logs\bin\Debug\09.02 User Logs.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\09.02 User Logs\bin\Debug\09.02 User Logs.pdb
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\09.02 User Logs\obj\Debug\09.02 User Logs.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\09.02 User Logs\obj\Debug\09.02 User Logs.pdb

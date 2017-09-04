@@ -1,0 +1,6 @@
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\01.00 Unique Usernames\bin\Debug\01.00 Unique Usernames.exe.config
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\01.00 Unique Usernames\bin\Debug\01.00 Unique Usernames.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\01.00 Unique Usernames\bin\Debug\01.00 Unique Usernames.pdb
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\01.00 Unique Usernames\obj\Debug\01.00 Unique Usernames.csprojResolveAssemblyReference.cache
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\01.00 Unique Usernames\obj\Debug\01.00 Unique Usernames.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\01.00 Unique Usernames\obj\Debug\01.00 Unique Usernames.pdb

@@ -1,0 +1,6 @@
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\04.00 Count Symbols\bin\Debug\04.00 Count Symbols.exe.config
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\04.00 Count Symbols\bin\Debug\04.00 Count Symbols.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\04.00 Count Symbols\bin\Debug\04.00 Count Symbols.pdb
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\04.00 Count Symbols\obj\Debug\04.00 Count Symbols.csprojResolveAssemblyReference.cache
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\04.00 Count Symbols\obj\Debug\04.00 Count Symbols.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\04.00 Count Symbols\obj\Debug\04.00 Count Symbols.pdb

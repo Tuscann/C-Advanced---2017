@@ -1,0 +1,5 @@
+C:\Users\me\Documents\CSharp-Advanced-May---2017\08.MATRICES\03.01 GroupNumbers\bin\Debug\03.01 GroupNumbers.exe.config
+C:\Users\me\Documents\CSharp-Advanced-May---2017\08.MATRICES\03.01 GroupNumbers\bin\Debug\03.01 GroupNumbers.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\08.MATRICES\03.01 GroupNumbers\bin\Debug\03.01 GroupNumbers.pdb
+C:\Users\me\Documents\CSharp-Advanced-May---2017\08.MATRICES\03.01 GroupNumbers\obj\Debug\03.01 GroupNumbers.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\08.MATRICES\03.01 GroupNumbers\obj\Debug\03.01 GroupNumbers.pdb

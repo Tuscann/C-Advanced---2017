@@ -1,0 +1,6 @@
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\05.00 Phonebook\bin\Debug\05.00 Phonebook.exe.config
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\05.00 Phonebook\bin\Debug\05.00 Phonebook.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\05.00 Phonebook\bin\Debug\05.00 Phonebook.pdb
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\05.00 Phonebook\obj\Debug\05.00 Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\05.00 Phonebook\obj\Debug\05.00 Phonebook.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\05.00 Phonebook\obj\Debug\05.00 Phonebook.pdb

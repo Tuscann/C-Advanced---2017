@@ -1,0 +1,5 @@
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\02.00 Sets Of Elements\bin\Debug\02.00 Sets Of Elements.exe.config
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\02.00 Sets Of Elements\bin\Debug\02.00 Sets Of Elements.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\02.00 Sets Of Elements\bin\Debug\02.00 Sets Of Elements.pdb
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\02.00 Sets Of Elements\obj\Debug\02.00 Sets Of Elements.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\06.EXERCISE SETS AND DICTIONARIES\Sets and Dictionaries - Exercise\02.00 Sets Of Elements\obj\Debug\02.00 Sets Of Elements.pdb

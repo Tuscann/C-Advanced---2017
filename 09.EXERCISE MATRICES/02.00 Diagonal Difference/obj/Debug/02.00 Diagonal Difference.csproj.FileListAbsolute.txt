@@ -1,0 +1,6 @@
+C:\Users\me\Documents\CSharp-Advanced-May---2017\09.EXERCISE MATRICES\02.00 Diagonal Difference\bin\Debug\02.00 Diagonal Difference.exe.config
+C:\Users\me\Documents\CSharp-Advanced-May---2017\09.EXERCISE MATRICES\02.00 Diagonal Difference\bin\Debug\02.00 Diagonal Difference.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\09.EXERCISE MATRICES\02.00 Diagonal Difference\bin\Debug\02.00 Diagonal Difference.pdb
+C:\Users\me\Documents\CSharp-Advanced-May---2017\09.EXERCISE MATRICES\02.00 Diagonal Difference\obj\Debug\02.00 Diagonal Difference.csprojResolveAssemblyReference.cache
+C:\Users\me\Documents\CSharp-Advanced-May---2017\09.EXERCISE MATRICES\02.00 Diagonal Difference\obj\Debug\02.00 Diagonal Difference.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\09.EXERCISE MATRICES\02.00 Diagonal Difference\obj\Debug\02.00 Diagonal Difference.pdb

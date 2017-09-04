@@ -1,0 +1,6 @@
+C:\Users\me\Documents\CSharp-Advanced-May---2017\08.MATRICES\01.00 SumOfAllElementsOfMatrix\bin\Debug\01.00 SumOfAllElementsOfMatrix.exe.config
+C:\Users\me\Documents\CSharp-Advanced-May---2017\08.MATRICES\01.00 SumOfAllElementsOfMatrix\bin\Debug\01.00 SumOfAllElementsOfMatrix.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\08.MATRICES\01.00 SumOfAllElementsOfMatrix\bin\Debug\01.00 SumOfAllElementsOfMatrix.pdb
+C:\Users\me\Documents\CSharp-Advanced-May---2017\08.MATRICES\01.00 SumOfAllElementsOfMatrix\obj\Debug\01.00 SumOfAllElementsOfMatrix.csprojResolveAssemblyReference.cache
+C:\Users\me\Documents\CSharp-Advanced-May---2017\08.MATRICES\01.00 SumOfAllElementsOfMatrix\obj\Debug\01.00 SumOfAllElementsOfMatrix.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\08.MATRICES\01.00 SumOfAllElementsOfMatrix\obj\Debug\01.00 SumOfAllElementsOfMatrix.pdb

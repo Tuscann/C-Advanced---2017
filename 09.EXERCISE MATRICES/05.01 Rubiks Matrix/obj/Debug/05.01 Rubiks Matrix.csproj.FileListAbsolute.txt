@@ -1,0 +1,5 @@
+C:\Users\me\Documents\CSharp-Advanced-May---2017\09.EXERCISE MATRICES\05.01 Rubiks Matrix\bin\Debug\05.01 Rubiks Matrix.exe.config
+C:\Users\me\Documents\CSharp-Advanced-May---2017\09.EXERCISE MATRICES\05.01 Rubiks Matrix\bin\Debug\05.01 Rubiks Matrix.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\09.EXERCISE MATRICES\05.01 Rubiks Matrix\bin\Debug\05.01 Rubiks Matrix.pdb
+C:\Users\me\Documents\CSharp-Advanced-May---2017\09.EXERCISE MATRICES\05.01 Rubiks Matrix\obj\Debug\05.01 Rubiks Matrix.exe
+C:\Users\me\Documents\CSharp-Advanced-May---2017\09.EXERCISE MATRICES\05.01 Rubiks Matrix\obj\Debug\05.01 Rubiks Matrix.pdb
